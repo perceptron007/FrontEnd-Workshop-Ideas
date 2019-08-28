@@ -11,7 +11,7 @@
 - [x]  [Introduction to Reactive Programming and Reactive Thinking](https://github.com/Abjayon/Workshop-2-RXJS)
 
 #### Workshop 3 
-- [ ] [Introduction to Functional Programming](https://github.com/Abjayon/Workshop-3-Functional-Programming)
+- [x] [Introduction to Functional Programming](https://github.com/Abjayon/Workshop-3-Functional-Programming)
 
 #### Workshop 4 
 - [ ] Invent your own RxJS 
