@@ -24,3 +24,8 @@
 
 #### Workshop 7 
 - [ ] Angular Elements and Web Comnponents
+
+
+### Unplanned Workshop and Inspiration Ideas For Workshop
+You can submit your own ideas for Future Workshop, you found something that you want to share with everybody. You want someone to explain something to you go into Project and then Put the Issue in Explore List
+Here is the Link to the [Projects](https://github.com/perceptron007/FrontEnd-Workshops-Sessions/projects)
